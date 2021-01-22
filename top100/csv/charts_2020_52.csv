@@ -1,0 +1,101 @@
+current_rank,artist,title,label,in_charts,peak,weekbegin,weekend,year,month
+1,Mariah Carey,All I Want For Christmas Is You,Sony Music,75,1,2020-12-25,2020-12-31,2020,12
+2,Wham!,Last Christmas,Epic,146,2,2020-12-25,2020-12-31,2020,12
+3,Chris Rea,Driving Home For Christmas,Warner Music International,63,3,2020-12-25,2020-12-31,2020,12
+4,Melanie Thornton,Wonderful Dream (Holidays Are Coming),X-Cell,122,3,2020-12-25,2020-12-31,2020,12
+5,Master KG feat. Burna Boy & Nomcebo Zikode,Jerusalema (Remix),Elektra France,20,4,2020-12-25,2020-12-31,2020,12
+6,Shakin' Stevens,Merry Christmas Everyone,Epic,21,5,2020-12-25,2020-12-31,2020,12
+7,John & Yoko / The Plastic Ono Band with The Harlem Community Choir,Happy Xmas (War Is Over),EMI,31,7,2020-12-25,2020-12-31,2020,12
+8,Michael Bublé,It's Beginning To Look A Lot Like Christmas,Reprise Records,20,6,2020-12-25,2020-12-31,2020,12
+9,Samra & Topic42,Lost,Urban,2,3,2020-12-25,2020-12-31,2020,12
+10,Ariana Grande,Santa Tell Me,Universal,18,10,2020-12-25,2020-12-31,2020,12
+11,"Bausa, RIN & Ufo361",Centre Court,Warner Music Germany,1,11,2020-12-25,2020-12-31,2020,12
+12,Band Aid,Do They Know It's Christmas?,Mercury,52,1,2020-12-25,2020-12-31,2020,12
+13,Paul McCartney,Wonderful Christmastime,Capitol,17,8,2020-12-25,2020-12-31,2020,12
+14,Kelly Clarkson,Underneath The Tree,RCA,14,14,2020-12-25,2020-12-31,2020,12
+15,Queen,Thank God It's Christmas,Universal,22,15,2020-12-25,2020-12-31,2020,12
+16,Brenda Lee,Rockin' Around The Christmas Tree,Universal,13,16,2020-12-25,2020-12-31,2020,12
+17,24kGoldn feat. Iann Dior,Mood,Columbia,18,1,2020-12-25,2020-12-31,2020,12
+18,José Feliciano,Feliz Navidad,RCA,48,15,2020-12-25,2020-12-31,2020,12
+19,Bobby Helms,Jingle Bell Rock,K-Tel,13,19,2020-12-25,2020-12-31,2020,12
+20,Bryan Adams,Christmas Time,Universal,16,19,2020-12-25,2020-12-31,2020,12
+21,Pentatonix,Hallelujah,RCA,27,4,2020-12-25,2020-12-31,2020,12
+22,Justin Bieber,Mistletoe,Island,17,22,2020-12-25,2020-12-31,2020,12
+23,Luna [DE],Verlierer,Four Music / Treppenhaus,4,3,2020-12-25,2020-12-31,2020,12
+24,The Weeknd,Blinding Lights,Republic Records,56,1,2020-12-25,2020-12-31,2020,12
+25,Joel Corry feat. MNEK,Head & Heart,Atlantic,23,4,2020-12-25,2020-12-31,2020,12
+26,Sia,Snowman,Monkey Puzzle Records Inc.,2,26,2020-12-25,2020-12-31,2020,12
+27,Ofenbach & Quarterhead feat. Norma Jean Martine,Head Shoulders Knees & Toes,Spinnin' Records,21,6,2020-12-25,2020-12-31,2020,12
+28,Robin Schulz feat. Kiddo,All We Got,Warner Music Germany,10,14,2020-12-25,2020-12-31,2020,12
+29,Tiësto,The Business,Atlantic,8,28,2020-12-25,2020-12-31,2020,12
+30,Paula Dalla Corte feat. Rea Garvey & Samu Haber,Someone Better,Voice Of Germany,1,30,2020-12-25,2020-12-31,2020,12
+31,Rolf Zuckowski und seine Freunde,In der Weihnachtsbäckerei,Musik für Dich,19,20,2020-12-25,2020-12-31,2020,12
+32,Dean Martin,Let It Snow! Let It Snow! Let It Snow!,Capitol,10,32,2020-12-25,2020-12-31,2020,12
+33,Luciano [DE],Shawty,Urban,2,7,2020-12-25,2020-12-31,2020,12
+34,Ava Max,Christmas Without You,Atlantic,3,34,2020-12-25,2020-12-31,2020,12
+35,Jamule,Blutige Tränen x Rockstar,Life Is Pain,1,35,2020-12-25,2020-12-31,2020,12
+36,Andy Williams,It's The Most Wonderful Time Of The Year,Sony Music,9,36,2020-12-25,2020-12-31,2020,12
+37,Purple Disco Machine & Sophie And The Giants,Hypnotized,Columbia,21,18,2020-12-25,2020-12-31,2020,12
+38,Lune,Gebe auf.,Lune,11,2,2020-12-25,2020-12-31,2020,12
+39,Coldplay,Christmas Lights,Parlophone Label Group,15,26,2020-12-25,2020-12-31,2020,12
+40,Sarah Connor,The Best Side Of Life,X-Cell,26,4,2020-12-25,2020-12-31,2020,12
+41,Kylie Minogue,Santa Baby,Parlophone Label Group,5,41,2020-12-25,2020-12-31,2020,12
+42,Britney Spears,My Only Wish (This Year),Sony Music,14,33,2020-12-25,2020-12-31,2020,12
+43,Bonez MC,Angeklagt,187 Strassenbande,9,1,2020-12-25,2020-12-31,2020,12
+44,Tate McRae,You Broke Me First,RCA,18,22,2020-12-25,2020-12-31,2020,12
+45,Jawsh 685 & Jason Derulo,Savage Love (Laxed - Siren Beat),Columbia,28,1,2020-12-25,2020-12-31,2020,12
+46,Internet Money & Gunna feat. Don Toliver & Nav,Lemonade,Internet Money,19,2,2020-12-25,2020-12-31,2020,12
+47,Michael Bublé,Holly Jolly Christmas,Reprise Records,6,36,2020-12-25,2020-12-31,2020,12
+48,CJ,Whoopty,Equity Distribution,7,48,2020-12-25,2020-12-31,2020,12
+49,Vize x Joker Bra x Leony,Paradise,Kontor Records,18,4,2020-12-25,2020-12-31,2020,12
+50,Dean Martin,Rudolph The Red Nosed Reindeer,Capitol,8,50,2020-12-25,2020-12-31,2020,12
+51,Loredana & Ufo361,Kein Hunger,Loredana,2,9,2020-12-25,2020-12-31,2020,12
+52,Sarah Connor,Bye Bye,Universal Domestic Polydor,2,52,2020-12-25,2020-12-31,2020,12
+53,"Udo Mc Muff, Kreisligalegende & Ikke Hüftgold","Eine Muh, eine Mäh",Summerfield Records,1,53,2020-12-25,2020-12-31,2020,12
+54,HVME,Goosebumps,Columbia / B1,14,23,2020-12-25,2020-12-31,2020,12
+55,Meduza feat. Dermot Kennedy,Paradise,Virgin Records,8,30,2020-12-25,2020-12-31,2020,12
+56,Mark Forster x Vize,Bist du okay,Four Music,13,11,2020-12-25,2020-12-31,2020,12
+57,Lil Nas X,Holiday,Columbia,4,53,2020-12-25,2020-12-31,2020,12
+58,Meghan Trainor,I'll Be Home,Epic,7,45,2020-12-25,2020-12-31,2020,12
+59,Mark Forster,Übermorgen,Four Music,34,7,2020-12-25,2020-12-31,2020,12
+60,Jason Derulo x Nuka,Love Not War (The Tampa Beat),Columbia,5,60,2020-12-25,2020-12-31,2020,12
+61,Daryl Hall & John Oates,Jingle Bell Rock (Daryl's Version),RCA,7,30,2020-12-25,2020-12-31,2020,12
+62,Gwen Stefani feat. Blake Shelton,You Make It Feel Like Christmas,Interscope,6,53,2020-12-25,2020-12-31,2020,12
+63,Miley Cyrus,Midnight Sky,RCA,19,27,2020-12-25,2020-12-31,2020,12
+64,BTS,Dynamite,2020 BigHit Entertainment,18,8,2020-12-25,2020-12-31,2020,12
+65,Bing Crosby,White Christmas,Universal,14,53,2020-12-25,2020-12-31,2020,12
+66,Billie Eilish,Therefore I Am,Interscope,6,5,2020-12-25,2020-12-31,2020,12
+67,Shawn Mendes / Justin Bieber,Monster,Shawn Mendes LP4-5 PS,5,6,2020-12-25,2020-12-31,2020,12
+68,Dardan,Ka Je,Hypnotize Entertainment,2,21,2020-12-25,2020-12-31,2020,12
+69,Topic feat. A7S,Breaking Me,Virgin Records,51,3,2020-12-25,2020-12-31,2020,12
+70,Miley Cyrus feat. Dua Lipa,Prisoner,RCA,5,20,2020-12-25,2020-12-31,2020,12
+71,Mero feat. Elif,Bitte geh,Groove Attack TraX,3,14,2020-12-25,2020-12-31,2020,12
+72,Tones And I,Dance Monkey,Bad Batch Records,72,1,2020-12-25,2020-12-31,2020,12
+73,Zoe Wees,Control,Caroline Records,26,31,2020-12-25,2020-12-31,2020,12
+74,Frank Sinatra,Jingle Bells,Capitol,5,74,2020-12-25,2020-12-31,2020,12
+75,SAINt JHN,Roses (Imanbek Remix),Columbia / B1,56,3,2020-12-25,2020-12-31,2020,12
+76,Frank Sinatra,Santa Claus Is Coming To Town,Sony Music,5,76,2020-12-25,2020-12-31,2020,12
+77,Jonas Brothers,Like It's Christmas,Republic Records,4,74,2020-12-25,2020-12-31,2020,12
+78,Vize & Tom Gregory,Never Let Me Down,Kontor Records,35,8,2020-12-25,2020-12-31,2020,12
+79,Twocolors,Lovefool,Virgin Records,27,11,2020-12-25,2020-12-31,2020,12
+80,Eagles,Please Come Home For Christmas,Elektra,3,75,2020-12-25,2020-12-31,2020,12
+81,Mariah Carey feat. Ariana Grande & Jennifer Hudson,Oh Santa!,Legacy Recordings,3,67,2020-12-25,2020-12-31,2020,12
+82,The Kid Laroi,Without You,Columbia,1,82,2020-12-25,2020-12-31,2020,12
+83,Ava Max,Kings & Queens,Atlantic,40,16,2020-12-25,2020-12-31,2020,12
+84,Jason Derulo,Take You Dancing,Atlantic,22,15,2020-12-25,2020-12-31,2020,12
+85,Katy Perry,Cozy Little Christmas,Capitol,2,85,2020-12-25,2020-12-31,2020,12
+86,Sarah Connor,Christmas In My Heart,X-Cell,14,4,2020-12-25,2020-12-31,2020,12
+87,Ariana Grande,Positions,Republic Records,9,9,2020-12-25,2020-12-31,2020,12
+88,Michael Bublé,White Christmas,Reprise Records,1,88,2020-12-25,2020-12-31,2020,12
+89,Pop Smoke,What You Know Bout Love,Victor Victor Worldwide,13,12,2020-12-25,2020-12-31,2020,12
+90,The Ronettes,Sleigh Ride,Sony Music,4,75,2020-12-25,2020-12-31,2020,12
+91,David Guetta & Sia,Let's Love,Parlophone Label Group,15,30,2020-12-25,2020-12-31,2020,12
+92,DaBaby feat. Roddy Ricch,Rockstar,Interscope,36,3,2020-12-25,2020-12-31,2020,12
+93,Apache 207,Roller,Four Music / TwoSides,70,1,2020-12-25,2020-12-31,2020,12
+94,Taylor Swift,Willow,Taylor Swift Productions,2,46,2020-12-25,2020-12-31,2020,12
+95,Frankie Goes To Hollywood,The Power Of Love,RCA,28,4,2020-12-25,2020-12-31,2020,12
+96,Lil Lano,Luzifer,AnanasSquad,1,96,2020-12-25,2020-12-31,2020,12
+97,Boney M.,Mary's Boy Child / Oh My Lord,Sony Music,15,1,2020-12-25,2020-12-31,2020,12
+98,Bosse,Der letzte Tanz,Universal Domestic Vertigo,1,98,2020-12-25,2020-12-31,2020,12
+99,Shawn Mendes + Camila Cabello,The Christmas Song,Shawn Mendes LP4-5 PS,2,95,2020-12-25,2020-12-31,2020,12
+100,Justin Bieber & Benny Blanco,Lonely,Def Jam,10,9,2020-12-25,2020-12-31,2020,12
