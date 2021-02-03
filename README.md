@@ -8,7 +8,7 @@ This is my final project for the "Data Analytics" Bootcamp of Ironhack Berlin in
 
 ## Project Intro
 
-2020 was a year of drastic changes due to the worldwide Corona health crisis. The life of all people around the world has been affected by this crisis. I wanted to know whether this crisis has left a footstamp on the German mainstream music in audio or lyrics. For this purpose I looked at Top 100 charts released between January and November of the years 2018-2020 to find out which kinds of songs were consumed most by Germans. 
+2020 was a year of drastic changes due to the worldwide Corona health crisis. The life of all people around the world has been affected by this crisis. I wanted to know whether this crisis has left a footstamp on the German mainstream music in audio or lyrics. For this purpose I looked at Top 100 charts released between the years 2018-2020 to find out which kinds of songs were consumed most by Germans.
 
 ### Methods Used
 * Webscraping / API
@@ -31,7 +31,7 @@ This is my final project for the "Data Analytics" Bootcamp of Ironhack Berlin in
 * Tableau
 
 ## Information over dataset
-The dataset consists of information of 1,868 songs which have been first released in the German Top 100 music charts between January 2008 and November 2020.
+The dataset consists of information of 1,756 songs which have been first released in the German Top 100 music charts between January 2008 and December 2020.
 The data was collected from different data sources. I used information from www.offiziellecharts.de to determine which songs had been in the Top 100 charts of each week in the observation period. The Spotify API was used to enrich the data with information about audio features of the songs. The lyrics of the songs were gathered through the Lyrics Genius API.
 
 ### These are the definitions of data points provided:
